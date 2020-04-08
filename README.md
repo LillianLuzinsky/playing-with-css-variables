@@ -3,4 +3,6 @@
 
 ### Things I learned:
 
-1) 
+1) CSS variables can be updated with JS
+2) Understanding how CSS variables work.
+3) Defining our CSS variables
