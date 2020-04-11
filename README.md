@@ -8,3 +8,4 @@
 3) Defining our CSS variables
 4) Adding these CSS variables to the image tag
 5) How to write JS to update our CSS variables
+6) Learned how to use data-set suffixes
